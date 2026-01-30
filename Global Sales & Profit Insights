@@ -1,0 +1,30 @@
+📌 Project Overview
+This project is an end-to-end Power BI Sales & Profit Analysis Dashboard built to analyze global sales performance, profitability, and cost efficiency.
+
+🛠 Tools & Technologies
+Power BI
+Power Query
+DAX
+Data Modeling (Star Schema)
+
+📂 Dataset Details
+Fact Table: Sales
+Dimension Tables: Product, Country, Date
+
+📈 Key Features
+Interactive KPIs for Sales, Profit, COGS, and Profit Margin
+Sales & Profit trend analysis over time
+Country-wise and product-wise performance analysis
+COGS vs Profit comparison using combo charts
+Dynamic slicers for better data exploration
+
+🧠 Skills Demonstrated
+Data Cleaning & Transformation
+Star Schema Data Modeling
+DAX Measures
+Data Visualization & Dashboard Design
+
+🖼 Screenshots
+Dashboard View
+Data Model (Star Schema)
+Fact and Dimension Tables
