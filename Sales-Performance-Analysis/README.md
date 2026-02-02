@@ -16,12 +16,6 @@ The goal was to analyze sales performance, profitability, and trends across regi
 - Evaluated discount impact on profit margin
 - Built interactive slicers for dynamic analysis
 
-## 📷 Dashboard Preview
-![Dashboard](images/dashboard_overview.png)
-
-## 🧩 Data Model
-![Data Model](images/data_model.png)
-
 ## 📂 Dataset
 Sample dataset sourced from Kaggle.
 
