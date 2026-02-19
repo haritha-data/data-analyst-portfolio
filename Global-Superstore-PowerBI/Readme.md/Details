@@ -1,0 +1,41 @@
+📊 Global Superstore Sales Analysis (Power BI)
+
+📌 Project Overview
+This project analyzes global retail sales data to uncover insights into sales performance, profitability, and customer behavior using Power BI.
+The goal was to support business decision-making through data-driven insights.
+
+🎯 Business Problem
+Management lacked visibility into:
+Profitability drivers
+Customer value
+Regional performance
+Growth trends
+
+This dashboard provides a clear view of these areas.
+
+🛠 Tools Used
+Power BI
+Power Query
+DAX
+Data Modeling
+
+📈 Key Features
+Star schema data model
+YOY & MOM analysis
+Drill-through functionality
+Custom tooltips
+Interactive filtering
+
+🔍 Key Insights
+High sales don’t always mean high profit
+A small group of customers drives major revenue
+Some regions have higher operational costs
+Product profitability varies by category
+
+💼 Business Value
+This dashboard helps stakeholders:
+Identify profitable products
+Optimize pricing strategies
+Focus on valuable customers
+
+Track growth performance
